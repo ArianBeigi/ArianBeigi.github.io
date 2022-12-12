@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+### Telegram
 
-Some information about you!
+t.me/oAriqn
 
-### More Information
+### Email
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[arian.beigi@gmail.com](mailto:arian.beigi@gmail.com)
