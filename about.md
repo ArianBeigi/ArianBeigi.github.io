@@ -6,7 +6,7 @@ published: true
 ---
 ### Telegram
 
-https://t.me/oAriqn
+<a href="https://t.me/oAriqn">oAriqn</a>
 
 ### Email
 
